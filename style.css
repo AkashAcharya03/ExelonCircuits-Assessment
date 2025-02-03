@@ -25,7 +25,7 @@ body {
 }
 
 .email {
-  font-size: 16px;
+  font-size: 14px;
   color: #666;
 }
 
@@ -151,7 +151,7 @@ body {
 .heading2 {
   text-align: left;
   font-weight: 100;
-  font-size: 60px;
+  font-size: 40px;
 }
 .avatars {
   display: flex;
@@ -186,6 +186,9 @@ body {
     display: none;
   }
   .try-now {
+    display: none;
+  }
+  .email{
     display: none;
   }
   .try-demo {
